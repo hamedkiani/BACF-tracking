@@ -1,9 +1,9 @@
 
-# <p align="center"> Learning Background-Aware Correlation Filters for Visual Tracking </p align="center">
+# <p align="center"> Learning Background-Aware Correlation Filters for Visual Tracking
 
-### <center> Hamed Kiani, Ashton Fagg, and  Simon Lucey </center>
+### <p align="center"> Hamed Kiani, Ashton Fagg, and  Simon Lucey
 
-### <center> ICCV 2017 </center>
+### <p align="center"> ICCV 2017
 
 ## Abstract
 
@@ -19,27 +19,29 @@ BACF learns from all possible positive and negative patches extracted from the e
 ## Evaluation result
 
 #### (I) Success plots comparing BACF with the state-of-the-art HOG based trackers on (a) OTB50, (b) OTB100, and (c) TC128. The result of top 12 trackers is illustrated here. AUCs are reported in brackets.
-<center>
+
+<p align="center">
 ![](http://www.hamedkiani.com/uploads/5/1/8/8/51882963/screen-shot-2017-09-11-at-1-40-00-pm_orig.png)
-</center>
+
 <br><br>
 
 ###  (II) Attribute based evaluation. Success plots compare BACF with state-of-the-art HOG based trackers on OTB100. BACF outperformed all the trackers over all attributes. AUCs are reported in brackets. The number of videos for each attribute is shown in parenthesis.
-<center>
+
+<p align="center">
 ![](http://www.hamedkiani.com/uploads/5/1/8/8/51882963/screen-shot-2017-09-11-at-1-50-35-pm_orig.png)
-</center>
+
 <br><br>
 
 ### (III) Success rates (% at IoU > 0.50) of BACF compared to CF trackers with deep features
-<center>
+<p align="center">
 ![](http://www.hamedkiani.com/uploads/5/1/8/8/51882963/screen-shot-2017-09-11-at-1-45-41-pm_orig.png)
-</center>
+
 <br><br>
 
 ### (IV) Tracking demo on OTB-100 dataset
-<center>
+<p align="center">
 [![](http://img.youtube.com/vi/aertxlzMEPo/0.jpg)](http://www.youtube.com/watch?v=aertxlzMEPo "")
-</center>
+
 <br><br>
 
 ### (V) Tracking result (MAT files) for OTB-50 and OTB-100​
