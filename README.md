@@ -20,23 +20,20 @@ BACF learns from all possible positive and negative patches extracted from the e
 
 #### (I) Success plots comparing BACF with the state-of-the-art HOG based trackers on (a) OTB50, (b) OTB100, and (c) TC128. The result of top 12 trackers is illustrated here. AUCs are reported in brackets.
 
-<p align="center">
 ![](http://www.hamedkiani.com/uploads/5/1/8/8/51882963/screen-shot-2017-09-11-at-1-40-00-pm_orig.png)
 
 <br><br>
 
 ###  (II) Attribute based evaluation. Success plots compare BACF with state-of-the-art HOG based trackers on OTB100. BACF outperformed all the trackers over all attributes. AUCs are reported in brackets. The number of videos for each attribute is shown in parenthesis.
 
-<p align="center">
-
 ![](http://www.hamedkiani.com/uploads/5/1/8/8/51882963/screen-shot-2017-09-11-at-1-50-35-pm_orig.png)
 
 <br><br>
 
 ### (III) Success rates (% at IoU > 0.50) of BACF compared to CF trackers with deep features
-<p align="center">
+
 ![](http://www.hamedkiani.com/uploads/5/1/8/8/51882963/screen-shot-2017-09-11-at-1-45-41-pm_orig.png)
-</p align="center">
+
 <br><br>
 
 ### (IV) Tracking demo on OTB-100 dataset
