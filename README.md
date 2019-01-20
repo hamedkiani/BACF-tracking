@@ -1,4 +1,5 @@
-# <center> Learning Background-Aware Correlation Filters for Visual Tracking </center>
+
+# <p align="center"> Learning Background-Aware Correlation Filters for Visual Tracking </p align="center">
 
 ### <center> Hamed Kiani, Ashton Fagg, and  Simon Lucey </center>
 
