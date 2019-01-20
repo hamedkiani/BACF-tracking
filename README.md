@@ -38,7 +38,7 @@ BACF learns from all possible positive and negative patches extracted from the e
 <br><br>
 
 ### (IV) Tracking demo on OTB-100 dataset
-<center>
+
 [![](http://img.youtube.com/vi/aertxlzMEPo/0.jpg)](http://www.youtube.com/watch?v=aertxlzMEPo "")
 
 
